@@ -1,0 +1,33 @@
+{
+  "url": {
+    "name": "fullviewmap",
+    "separator": "*"
+  },
+  "constructor": "M.plugin.FullViewMap",
+  "parameters": [{
+    "type": "object",
+    "properties": [{
+      "type": "enum",
+      "name": "position",
+      "possibleValues": ["TL", "TR", "BL", "BR"],
+      "position": 0
+    }]
+  }],
+  "files": {
+    "ol": {
+      "scripts": [],
+      "styles": []
+    }
+  },
+  "metadata": {
+    "name": "FullViewMap",
+    "description": "Full screen plugin",
+    "text": "This plugin allows you to put the map in full screen",
+    "version": "1.0.0",
+    "date": "",
+    "author": "",
+    "org": "",
+    "tags": "mapea,plugin",
+    "icon": "./facade/assets/icons/icons.svg"
+  }
+}
