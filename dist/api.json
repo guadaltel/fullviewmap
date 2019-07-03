@@ -16,7 +16,7 @@
     "files": {
     "ol": {
       "scripts": "fullviewmap.ol.min.js",
-      "styles": "fullviewmap.min.css"
+      "styles": "fullviewmap.ol.min.css"
     }
   },
   "metadata": {
