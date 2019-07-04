@@ -21,12 +21,12 @@
   },
   "metadata": {
     "name": "FullViewMap",
-    "description": "Full screen plugin",
-    "text": "This plugin allows you to put the map in full screen",
+    "description": "Pantalla completa del mapa",
+    "text": "Este plugin te permite poner el mapa en pantalla completa",
     "version": "1.0.0",
-    "date": "",
+    "date": "Jun 26, 2019",
     "author": "",
-    "org": "",
+    "org": "Instituto de Estadística y Cartografía",
     "tags": "mapea,plugin",
     "icon": "./facade/assets/icons/icons.svg"
   }
