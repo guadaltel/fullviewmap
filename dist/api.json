@@ -13,7 +13,7 @@
       "position": 0
     }]
   }],
-    "files": {
+  "files": {
     "ol": {
       "scripts": "fullviewmap.ol.min.js",
       "styles": "fullviewmap.ol.min.css"
