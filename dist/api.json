@@ -4,15 +4,24 @@
     "separator": "*"
   },
   "constructor": "M.plugin.FullViewMap",
-  "parameters": [{
-    "type": "object",
-    "properties": [{
-      "type": "enum",
-      "name": "position",
-      "possibleValues": ["TL", "TR", "BL", "BR"],
-      "position": 0
-    }]
-  }],
+  "parameters": [
+    {
+      "type": "object",
+      "properties": [
+        {
+          "type": "enum",
+          "name": "position",
+          "possibleValues": [
+            "TL",
+            "TR",
+            "BL",
+            "BR"
+          ],
+          "position": 0
+        }
+      ]
+    }
+  ],
   "files": {
     "ol": {
       "scripts": "fullviewmap.ol.min.js",
@@ -23,8 +32,8 @@
     "name": "FullViewMap",
     "description": "Pantalla completa del mapa",
     "text": "Este plugin te permite poner el mapa en pantalla completa",
-    "version": "1.0.0",
-    "date": "Jun 26, 2019",
+    "version": "1.1.0",
+    "date": "Diciembre, 2019",
     "author": "",
     "org": "Instituto de Estadística y Cartografía",
     "tags": "mapea,plugin",
